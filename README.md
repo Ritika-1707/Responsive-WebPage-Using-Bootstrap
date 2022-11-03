@@ -30,24 +30,3 @@ Usage of classes for elements which needs similar styling must be maximized.
 Usage of Inline CSS should be eliminated.
 Usage of External Stylesheet is recommended.
 Usage of the Bootstrap Framework should be maximized. Built in responsive utilities in Bootstrap should be used well. Some of them can be found here at https://getbootstrap.com/docs/4.0/utilities.
-
-
-MENTORS TO BEGIN REVIEW YOUR WORK ONLY AFTER ->
-
-
-You add the respective Mentor as a Reporter/Master into your Assignment Repository
-
-
-You have checked your Assignment on the Automated Evaluation Tool - Hobbes (Check for necessary steps in your Boilerplate - README.md file. ) and got the required score - Check with your mentor about the Score you must achieve before it is accepted for Manual Submission.
-
-
-Intimate your Mentor on Slack and/or Send an Email to learner.support@stackroute.in - with your Git URL - Once you are done working and are ready for final submission.
-
-
-
-REFERENCES:
-http://themes.semicolonweb.com/html/canvas/services.html
-http://themes.semicolonweb.com/html/canvas/portfolio.html
-
-NOTE:
-Avoid using any third-party plugins.
