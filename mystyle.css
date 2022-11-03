@@ -1,0 +1,78 @@
+header {
+    margin: 0%;
+}
+
+p {
+    display: block;
+    text-align: right;
+    font-size: small;
+    
+} 
+
+#id4 {
+    text-align: center;
+    font-family: 'Rubik Distressed';
+    font-style: oblique;
+    color:ivory;
+}
+
+form {
+    text-align: right;
+}
+
+ul {
+    text-align: center;
+}
+
+
+#id1 {
+    text-align: center;
+    text-shadow: rgba(221, 194, 97, 0.918) 1px 0 10px;
+    padding: 1em;  
+    margin: 0%;
+}
+
+#id2{
+    text-align: center;
+}
+
+#id3 {
+    align-items: center; 
+}
+
+#id5{
+    text-align: left;
+    font-weight: bold;
+}
+
+#id7{
+    color: beige;
+}
+
+#id8 {
+    float:left;
+    margin: 0%;
+    color: beige;
+
+}
+.branding {
+    float: left;
+    margin: 0%;
+}
+
+.navbar-brand {
+    align-items: center;
+}
+
+#navbarCollapse a:hover {
+    background-color: antiquewhite;
+}
+
+.navbar-toggler-icon {
+    color: aliceblue;
+}
+
+.container {
+   background-color:rgb(148, 246, 250); 
+}
+
